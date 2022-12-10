@@ -1,0 +1,28 @@
+body {
+    background: rgb(76, 126, 127);
+    background: linear-gradient(0deg, rgb(105, 132, 132) 0%, rgba(253,189,45,0.7364672364672364) 40%);
+}
+.next-page{
+    font-size: 2rem;
+    margin: auto auto 100px auto;
+}
+.responsive {
+    max-width: 75%;
+    height: auto;
+}
+
+img {
+    padding: 17px;
+}
+
+.displayBox {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+}
+
+.scroll-box {
+    height: 500px;
+    float: left;
+    overflow-y: auto;
+    padding: 1rem;
+}
